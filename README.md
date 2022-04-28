@@ -7,3 +7,12 @@
 | Folder | Machine Learning Model |
 |: --- : | : ------------------ : | 
 | ex1 | **Linear Regression and Gradient Descient** |
+| Folder  	| Machine Learning Model  	|
+|---	|---	|
+| ex1  	| **Linear Regression**  	|
+| ex2  	| **Logistic Regression**  	|
+|   	|   	|
+|   	|   	|
+|   	|   	|
+|   	|   	|
+|   	|   	|
