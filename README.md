@@ -5,7 +5,7 @@
 ### Great mathemathical review of the machine learning algorithms and what's going on under the hood. 
 
 | Folder  	| Machine Learning Model  	|
-|---	|---	|
+|---	|:---	|
 | ex1  	| **Linear regression and gradient descent**  	|
 | ex2  	| **Logistic regression**  	|
 | ex3  	| **Multi-class classification and neutral networks**  	|
