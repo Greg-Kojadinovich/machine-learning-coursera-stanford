@@ -5,5 +5,5 @@
 ### Great mathemathical review of the machine learning algorithms and what's going on under the hood. 
 
 | Folder | Machine Learning Model |
-|: ----: | :--------------------: | 
+|: --- : | : ------------------ : | 
 | ex1 | **Linear Regression and Gradient Descient** |
