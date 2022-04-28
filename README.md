@@ -1,4 +1,6 @@
-# Machine Learning by Stanford University [Coursera Credential](https://www.coursera.org/account/accomplishments/certificate/KEMQQYD2WV2R)
+# Machine Learning
+
+### Machine Learning by Stanford University [Coursera Credential](https://www.coursera.org/account/accomplishments/certificate/KEMQQYD2WV2R)
 
 ### My coursework after completing Machine Learning by Stanford University offered through Coursera. 
 
