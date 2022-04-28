@@ -7,10 +7,10 @@
 | Folder  	| Machine Learning Model  	|
 |---	|---	|
 | ex1  	| **Linear regression and gradient descent**  	|
-| ex2  	| **Logistic Regression**  	|
+| ex2  	| **Logistic regression**  	|
 | ex3  	| **Multi-class classification and neutral networks**  	|
 | ex4  	| **Neutral nets - feedforward and backpropagation**  	|
-| ex5  	| **Regularized Linear Regression and Bias Variance**  	|
+| ex5  	| **Regularized linear regression and bias variance**  	|
 | ex6  	| **Support vector machines - spam classifier**  	|
 | ex7  	| **K-means clustering and principal component analysis**  	|
-| ex8  	| **Anomaly Detection and Recommender Systems**  	|
+| ex8  	| **Anomaly detection and recommender systems**  	|
