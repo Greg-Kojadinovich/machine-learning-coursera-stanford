@@ -2,7 +2,9 @@
 
 ### Machine Learning by Stanford University [Coursera Credential](https://www.coursera.org/account/accomplishments/certificate/KEMQQYD2WV2R) 
 
-### Great mathemathical review of the machine learning algorithms and what's going on under the hood. 
+### Great mathemathical review of the machine learning algorithms and what's going on under the hood 
+
+### Folders run in Matlab Online and Octave Workspace
 
 | Folder  	| Machine Learning Model  	|
 |---	|:---	|
