@@ -4,4 +4,4 @@
 
 ### Great mathemathical review of the machine learning algorithms and what's going on under the hood. 
 
-### ex1 **Linear Regression and Gradient Descient **
+### ex1 **Linear Regression and Gradient Descient**
